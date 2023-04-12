@@ -1,21 +1,18 @@
-#Contribution Statement
+# Contribution Statement
 
 All members worked on building the GitHub Repository Structure. The following are descriptions of each team members contributions to the homework:
 
-##Gilberto 
+## Gilberto
 - 
 - 
-
-##Avery
+## Avery
 - 
 - 
-
-##Claire
+## Claire
 - 
--
-
-##Prasann
--
--
+- 
+## Prasann
+- 
+- 
 
 

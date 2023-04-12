@@ -5,5 +5,4 @@ format: jb-book
 root: hw04_description
 chapters:
 - file: LOSC_Event_tutorial
-- file: notebooks
 - file: contribution_statement
