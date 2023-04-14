@@ -1,4 +1,4 @@
 jupyter-book
-matplotlib
+matplotlib == 3.8
 numpy
 h5py
